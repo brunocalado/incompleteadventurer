@@ -3,7 +3,7 @@
    "title": "Incomplete Adventurer",   
    "description": "Unofficial Incomplete Adventurer Playbooks Designed by Trevor Murray & Ben Rosenbloom",   
    "author": "Mestre Digital",
-   "version": "0.0.2",
+   "version": "0.0.3",
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.7.9",
    "scripts": ["./scripts/ia.js"],
@@ -23,12 +23,7 @@
         "module": "incompleteadventurer"
       }      
     ],
-  "dependencies": [
-    {
-      "name": "dungeonworld",
-      "type": "system"
-    }
-  ],  
+  "system": "dungeonworld",
   "url": "https://github.com/brunocalado/incompleteadventurer",
   "manifest": "https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.json",  
   "download": "https://codeload.github.com/brunocalado/incompleteadventurer/zip/main"               

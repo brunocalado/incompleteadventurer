@@ -8,7 +8,7 @@ Hooks.on("init", () => {
 })
 
 Hooks.on("renderCompendium", (app, html, data) => {
-	if ( data.collection.startsWith("incompleteadventurer.") && !game.settings.get("incompleteadventurer", "imported") ) {
+	if ( !game.settings.get("incompleteadventurer", "imported") ) {
 		Dialog.confirm({
 			title: "Incomplete Adventurer Importer",
 			content: "<p>Welcome to the <strong>Incomplete Adventurer</strong> module. Would you like to import all content to your World?",
