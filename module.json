@@ -28,7 +28,7 @@
       "type": "system"
     }
   ],  
-  "url": "https://github.com/brunocalado/modularmushroomcave",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/modularmushroomcave/master/module.json",  
-  "download": "https://codeload.github.com/brunocalado/modularmushroomcave/zip/master"
+  "url": "https://github.com/brunocalado/incompleteadventurer",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.json",  
+  "download": "https://codeload.github.com/brunocalado/incompleteadventurer/zip/main"               
 }
