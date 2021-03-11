@@ -21,10 +21,10 @@ Hooks.on("renderCompendium", (app, html, data) => {
  * Import content
  */
 async function importLabors() {
-	const module = game.modules.get("ten");
+	const module = game.modules.get("incompleteadventurer");
 
 	for ( let p of module.packs ) {
-		const pack = game.packs.get("cycle-of-cerberus."+p.name);
+		const pack = game.packs.get("incompleteadventurer."+p.name);
     await pack.importAll();
 	}
 
