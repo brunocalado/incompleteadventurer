@@ -13,6 +13,12 @@ All playbooks from the PDF.
 1. Go to modules and use the link: 
 https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.json
 
+# How to Use
+1. Click in any playbooks.
+2. A dialog will ask you permission to import. 
+3. Click yes to import everything to your world.
+![alt text](images/guide/howto.jpg)
+
 # Changelog
 You can check changes at [CHANGELOG](CHANGELOG.md)
 

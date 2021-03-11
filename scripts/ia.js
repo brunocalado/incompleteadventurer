@@ -21,23 +21,11 @@ Hooks.on("renderCompendium", (app, html, data) => {
  * Import content
  */
 async function importLabors() {
-  ui.notifications.warn(`Importing Incomplete Adventurer!`); // get selected token  
 	const module = game.modules.get("incompleteadventurer");
 
 	for ( let p of module.packs ) {
 		let pack = game.packs.get("incompleteadventurer."+p.name);
     await pack.importAll();
-	}
-  
-  ui.notifications.warn(`Incomplete Adventurer is imported!`); // get selected token  
+	}  
 	return game.settings.set("incompleteadventurer", "imported", true);
 }
-
-/*
-
-	for ( let p of module.packs ) {
-		const pack = game.packs.get("incompleteadventurer."+p.name);
-    await pack.importAll();
-	}
-  
-*/
