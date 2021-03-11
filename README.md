@@ -3,7 +3,7 @@ Incomplete Adventurer are Additional Playbooks for Dungeon World Designed by Tre
 
 # How to Install
 1. Go to modules and use the link: 
-
+s
 
 # Licence
 Incomplete Adventurer are Additional Playbooks for Dungeon World Designed by Trevor Murray & Ben Rosenbloom.
