@@ -25,10 +25,19 @@ async function importLabors() {
 	const module = game.modules.get("incompleteadventurer");
 
 	for ( let p of module.packs ) {
-		const pack = game.packs.get("incompleteadventurer."+p.name);
+		let pack = game.packs.get("incompleteadventurer."+p.name);
     await pack.importAll();
 	}
   
   ui.notifications.warn(`Incomplete Adventurer is imported!`); // get selected token  
 	return game.settings.set("incompleteadventurer", "imported", true);
 }
+
+/*
+
+	for ( let p of module.packs ) {
+		const pack = game.packs.get("incompleteadventurer."+p.name);
+    await pack.importAll();
+	}
+  
+*/
