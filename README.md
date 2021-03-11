@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.j
 # Changelog
 You can check changes at [CHANGELOG](CHANGELOG.md)
 
-# Licence
+# License
 Incomplete Adventurer are Additional Playbooks for Dungeon World Designed by Trevor Murray & Ben Rosenbloom.
 
 The full text of Incomplete Adventurer is released under a Creative Commons Attribution license (CC-BY).
