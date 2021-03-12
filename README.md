@@ -3,6 +3,8 @@ Incomplete Adventurer are Additional Playbooks for Dungeon World Designed by Tre
 
 # What is available?
 ## Playbooks
+- The Alchemist
+- The Berserker
 - The Monk 
 - The Runepriest
 - The Sorcerer
@@ -15,6 +17,8 @@ All playbooks from the PDF.
 https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.json
 
 # How to Use
+
+After an update you NEED to import again.
 
 ## Option 1
 1. Go to Compendium

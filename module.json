@@ -1,9 +1,9 @@
 {   
    "name": "incompleteadventurer",   
-   "title": "Incomplete Adventurer",   
-   "description": "Unofficial Incomplete Adventurer Playbooks Designed by Trevor Murray & Ben Rosenbloom",   
+   "title": "Incomplete Adventurer for Dungeon World",
+   "description": "Unofficial Incomplete Adventurer Playbooks Designed by Trevor Murray & Ben Rosenbloom for Dungeon World",   
    "author": "Mestre Digital",
-   "version": "0.0.8",
+   "version": "0.0.9",
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.7.9",
    "scripts": ["./scripts/ia.js"],
@@ -26,6 +26,20 @@
         "name": "the-runepriest",
         "label": "The Runepriest",
         "path": "packs/the-runepriest.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      {
+        "name": "the-alchemist",
+        "label": "The Alchemist",
+        "path": "packs/the-alchemist.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      {
+        "name": "the-berserker",
+        "label": "The Berserker",
+        "path": "packs/the-berserker.db",
         "entity": "Item",
         "module": "incompleteadventurer"
       }
