@@ -4,6 +4,7 @@ Incomplete Adventurer are Additional Playbooks for Dungeon World Designed by Tre
 # What is available?
 ## Playbooks
 - The Monk 
+- The Runepriest
 - The Sorcerer
 
 # What's next?
@@ -14,7 +15,14 @@ All playbooks from the PDF.
 https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.json
 
 # How to Use
-1. Click in any playbooks.
+## Option 1
+1. Go to Compendium
+2. Choose the playbook you want.
+3. Right click it and choose Import.
+4. The class is available for the Character Builder now.
+
+## Option 2
+1. Click in any playbooks from the Compendium.
 2. A dialog will ask you permission to import. 
 3. Click yes to import everything to your world.
 ![alt text](images/guide/howto.jpg)

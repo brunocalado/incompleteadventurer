@@ -3,7 +3,7 @@
    "title": "Incomplete Adventurer",   
    "description": "Unofficial Incomplete Adventurer Playbooks Designed by Trevor Murray & Ben Rosenbloom",   
    "author": "Mestre Digital",
-   "version": "0.0.6",
+   "version": "0.0.7",
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.7.9",
    "scripts": ["./scripts/ia.js"],
@@ -21,7 +21,14 @@
         "path": "packs/the-sorcerer.db",
         "entity": "Item",
         "module": "incompleteadventurer"
-      }      
+      },
+      {
+        "name": "the-runepriest",
+        "label": "The Runepriest",
+        "path": "packs/the-runepriest.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      }
     ],
   "system": "dungeonworld",
   "url": "https://github.com/brunocalado/incompleteadventurer",
