@@ -3,8 +3,8 @@
 - The Merchant
 
 # 0.0.9
-the-berserker
-the-alchemist
+- the-berserker
+- the-alchemist
 
 # 0.0.8
 Missing text
