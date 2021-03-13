@@ -3,7 +3,7 @@
    "title": "Incomplete Adventurer for Dungeon World",
    "description": "Unofficial Incomplete Adventurer Playbooks Designed by Trevor Murray & Ben Rosenbloom for Dungeon World",   
    "author": "Mestre Digital",
-   "version": "0.0.9",
+   "version": "0.1.0",
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.7.9",
    "scripts": ["./scripts/ia.js"],
@@ -40,6 +40,20 @@
         "name": "the-berserker",
         "label": "The Berserker",
         "path": "packs/the-berserker.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      {
+        "name": "the-gunslinger",
+        "label": "The Gunslinger",
+        "path": "packs/the-gunslinger.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      {
+        "name": "the-merchant",
+        "label": "The Merchant",
+        "path": "packs/the-merchant.db",
         "entity": "Item",
         "module": "incompleteadventurer"
       }

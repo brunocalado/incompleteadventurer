@@ -5,6 +5,8 @@ Incomplete Adventurer are Additional Playbooks for Dungeon World Designed by Tre
 ## Playbooks
 - The Alchemist
 - The Berserker
+- The Gunslinger
+- The Merchant
 - The Monk 
 - The Runepriest
 - The Sorcerer

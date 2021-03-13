@@ -1,3 +1,7 @@
+# 0.1.0
+- The Gunslinger
+- The Merchant
+
 # 0.0.9
 the-berserker
 the-alchemist
