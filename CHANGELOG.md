@@ -1,3 +1,7 @@
+# 0.1.1
+- The Necromancer
+- The Olympian
+
 # 0.1.0
 - The Gunslinger
 - The Merchant

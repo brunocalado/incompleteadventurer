@@ -1,6 +1,6 @@
 # Incomplete Adventurer for Dungeon World
 <p align="center">
-  <img width="400" src="images/guide/usedw.png">
+  <img width="300" src="images/guide/usedw.png">
 </p>
 
 Incomplete Adventurer are Additional Playbooks for Dungeon World Designed by Trevor Murray & Ben Rosenbloom.
@@ -14,6 +14,8 @@ The document has 18 playbooks and you can download the PDF at: https://benkrosen
 - The Gunslinger
 - The Merchant
 - The Monk 
+- The Necromancer
+- The Olympian
 - The Runepriest
 - The Sorcerer
 

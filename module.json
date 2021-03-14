@@ -56,6 +56,20 @@
         "path": "packs/the-merchant.db",
         "entity": "Item",
         "module": "incompleteadventurer"
+      },
+      {
+        "name": "the-olympian",
+        "label": "The Olympian",
+        "path": "packs/the-olympian.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      { 
+        "name": "the-necromancer",
+        "label": "The Necromancer",
+        "path": "packs/the-necromancer.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
       }
     ],
   "system": "dungeonworld",
