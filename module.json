@@ -3,7 +3,7 @@
    "title": "Incomplete Adventurer for Dungeon World",
    "description": "Unofficial Incomplete Adventurer Playbooks Designed by Trevor Murray & Ben Rosenbloom for Dungeon World",   
    "author": "Mestre Digital",
-   "version": "0.1.1",
+   "version": "0.1.2",
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.7.9",
    "scripts": ["./scripts/ia.js"],
@@ -68,6 +68,34 @@
         "name": "the-necromancer",
         "label": "The Necromancer",
         "path": "packs/the-necromancer.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      { 
+        "name": "the-psion",
+        "label": "The Psion",
+        "path": "packs/the-psion.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      { 
+        "name": "the-oracle",
+        "label": "The Oracle",
+        "path": "packs/the-oracle.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      { 
+        "name": "the-paragon",
+        "label": "The Paragon",
+        "path": "packs/the-paragon.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      { 
+        "name": "the-seeker",
+        "label": "The Seeker",
+        "path": "packs/the-seeker.db",
         "entity": "Item",
         "module": "incompleteadventurer"
       }

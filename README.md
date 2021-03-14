@@ -8,6 +8,7 @@ Incomplete Adventurer are Additional Playbooks for Dungeon World Designed by Tre
 The document has 18 playbooks and you can download the PDF at: https://benkrosenbloom.itch.io/incomplete-adventurer
 
 # What is available?
+
 ## Playbooks
 - The Alchemist
 - The Berserker
@@ -16,7 +17,11 @@ The document has 18 playbooks and you can download the PDF at: https://benkrosen
 - The Monk 
 - The Necromancer
 - The Olympian
+- The Oracle
+- The Paragon
+- The Psion
 - The Runepriest
+- The Seeker
 - The Sorcerer
 
 # What's next?

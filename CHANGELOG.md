@@ -1,3 +1,9 @@
+# 0.1.2
+- The Psion
+- The Oracle
+- The Paragon
+- The Seeker
+
 # 0.1.1
 - The Necromancer
 - The Olympian
