@@ -10,22 +10,24 @@ The document has 18 playbooks and you can download the PDF at: https://benkrosen
 # What is available?
 
 ## Playbooks
-- The Alchemist
-- The Berserker
-- The Gunslinger
-- The Merchant
-- The Monk 
-- The Necromancer
-- The Olympian
-- The Oracle
-- The Paragon
-- The Psion
-- The Runepriest
-- The Seeker
-- The Sorcerer
-
-# What's next?
-All playbooks from the PDF.
+1. The Alchemist
+2. The Berserker
+3. The Gunslinger
+4. The Merchant
+5. The Monk 
+6. The Necromancer
+7. The Olympian
+8. The Oracle
+9. The Paragon
+10. The Psion
+11. The Runepriest
+12. The Seeker
+13. The Sorcerer
+14. The Spellblade
+15. The Summoner
+16. The Turncloak
+17. The Verdant
+18. The Warlock
 
 # How to Install
 1. Go to modules and use the link: 

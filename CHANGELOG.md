@@ -1,3 +1,10 @@
+# 0.1.3
+- The Spellblade
+- The Summoner
+- The Turncloak
+- The Verdant
+- The Warlock
+
 # 0.1.2
 - The Psion
 - The Oracle

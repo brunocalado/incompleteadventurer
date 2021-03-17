@@ -3,7 +3,7 @@
    "title": "Incomplete Adventurer for Dungeon World",
    "description": "Unofficial Incomplete Adventurer Playbooks Designed by Trevor Murray & Ben Rosenbloom for Dungeon World",   
    "author": "Mestre Digital",
-   "version": "0.1.2",
+   "version": "0.1.3",
    "minimumCoreVersion": "0.7.9",
    "compatibleCoreVersion":"0.7.9",
    "scripts": ["./scripts/ia.js"],
@@ -98,7 +98,42 @@
         "path": "packs/the-seeker.db",
         "entity": "Item",
         "module": "incompleteadventurer"
-      }
+      },
+      { 
+        "name": "the-spellblade",
+        "label": "The Spellblade",
+        "path": "packs/the-spellblade.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      { 
+        "name": "the-summoner",
+        "label": "The Summoner",
+        "path": "packs/the-summoner.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      { 
+        "name": "the-turncloak",
+        "label": "The Turncloak",
+        "path": "packs/the-turncloak.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      { 
+        "name": "the-verdant",
+        "label": "The Verdant",
+        "path": "packs/the-verdant.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      },
+      { 
+        "name": "the-warlock",
+        "label": "The Warlock",
+        "path": "packs/the-warlock.db",
+        "entity": "Item",
+        "module": "incompleteadventurer"
+      }      
     ],
   "system": "dungeonworld",
   "url": "https://github.com/brunocalado/incompleteadventurer",
