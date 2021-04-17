@@ -3,10 +3,9 @@
    "title": "Incomplete Adventurer for Dungeon World",
    "description": "Unofficial Incomplete Adventurer Playbooks Designed by Trevor Murray & Ben Rosenbloom for Dungeon World",   
    "author": "Mestre Digital",
-   "version": "0.1.3",
+   "version": "0.1.4",
    "minimumCoreVersion": "0.7.9",
-   "compatibleCoreVersion":"0.7.9",
-   "scripts": ["./scripts/ia.js"],
+   "compatibleCoreVersion":"0.7.9",   
    "packs": [
       {
         "name": "the-monk",

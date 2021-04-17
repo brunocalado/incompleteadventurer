@@ -1,3 +1,7 @@
+# 0.1.4
+- Improved for Dungeon World 0.7.3+
+- Removed import script
+
 # 0.1.3
 - The Spellblade
 - The Summoner

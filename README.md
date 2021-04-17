@@ -37,17 +37,11 @@ https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.j
 
 After an update you NEED to import again.
 
-## Option 1
+## Instructions
 1. Go to Compendium
 2. Choose the playbook you want.
 3. Right click it and choose Import.
-4. The class is available for the Character Builder now.
-
-## Option 2
-1. Click in any playbooks from the Compendium.
-2. A dialog will ask you permission to import. 
-3. Click yes to import everything to your world.
-![alt text](images/guide/howto.jpg)
+4. The class will be available for the Character Builder now.
 
 # Changelog
 You can check changes at [CHANGELOG](CHANGELOG.md)
