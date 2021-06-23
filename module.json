@@ -1,141 +1,45 @@
-{   
-   "name": "incompleteadventurer",   
-   "title": "Incomplete Adventurer for Dungeon World",
-   "description": "Unofficial Incomplete Adventurer Playbooks Designed by Trevor Murray & Ben Rosenbloom for Dungeon World",   
-   "author": "Mestre Digital",
-   "version": "0.1.4",
-   "minimumCoreVersion": "0.7.9",
-   "compatibleCoreVersion":"0.7.9",   
-   "packs": [
-      {
-        "name": "the-monk",
-        "label": "The Monk",
-        "path": "packs/the-monk.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      {
-        "name": "the-sorcerer",
-        "label": "The Sorcerer",
-        "path": "packs/the-sorcerer.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      {
-        "name": "the-runepriest",
-        "label": "The Runepriest",
-        "path": "packs/the-runepriest.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      {
-        "name": "the-alchemist",
-        "label": "The Alchemist",
-        "path": "packs/the-alchemist.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      {
-        "name": "the-berserker",
-        "label": "The Berserker",
-        "path": "packs/the-berserker.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      {
-        "name": "the-gunslinger",
-        "label": "The Gunslinger",
-        "path": "packs/the-gunslinger.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      {
-        "name": "the-merchant",
-        "label": "The Merchant",
-        "path": "packs/the-merchant.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      {
-        "name": "the-olympian",
-        "label": "The Olympian",
-        "path": "packs/the-olympian.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      { 
-        "name": "the-necromancer",
-        "label": "The Necromancer",
-        "path": "packs/the-necromancer.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      { 
-        "name": "the-psion",
-        "label": "The Psion",
-        "path": "packs/the-psion.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      { 
-        "name": "the-oracle",
-        "label": "The Oracle",
-        "path": "packs/the-oracle.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      { 
-        "name": "the-paragon",
-        "label": "The Paragon",
-        "path": "packs/the-paragon.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      { 
-        "name": "the-seeker",
-        "label": "The Seeker",
-        "path": "packs/the-seeker.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      { 
-        "name": "the-spellblade",
-        "label": "The Spellblade",
-        "path": "packs/the-spellblade.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      { 
-        "name": "the-summoner",
-        "label": "The Summoner",
-        "path": "packs/the-summoner.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      { 
-        "name": "the-turncloak",
-        "label": "The Turncloak",
-        "path": "packs/the-turncloak.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      { 
-        "name": "the-verdant",
-        "label": "The Verdant",
-        "path": "packs/the-verdant.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      },
-      { 
-        "name": "the-warlock",
-        "label": "The Warlock",
-        "path": "packs/the-warlock.db",
-        "entity": "Item",
-        "module": "incompleteadventurer"
-      }      
-    ],
-  "system": "dungeonworld",
+{
+  "name": "incompleteadventurer",
+  "title": "Incomplete Adventurer for Dungeon World",
+  "description": "Unofficial Incomplete Adventurer Playbooks Designed by Trevor Murray & Ben Rosenbloom for Dungeon World",
+  "author": "Mestre Digital",
+  "authors": [],
   "url": "https://github.com/brunocalado/incompleteadventurer",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.json",  
-  "download": "https://codeload.github.com/brunocalado/incompleteadventurer/zip/main"               
+  "flags": {},
+  "version": "0.1.5",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.8",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "incomplete-adventurer",
+      "label": "Incomplete Adventurer",
+      "path": "packs/incomplete-adventurer.db",
+      "entity": "Item",
+      "module": "incompleteadventurer",
+      "private": false
+    }
+  ],
+  "systems": ["dungeonworld"],
+  "dependencies": [{
+          "type": "module",
+          "name": "compendium-folders",
+          "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/master/module.json"
+      },
+      {
+          "name": "dungeonworld",
+          "type": "system"
+      }
+  ],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.json",
+  "download": "https://codeload.github.com/brunocalado/incompleteadventurer/zip/main",
+  "protected": false,
+  "coreTranslation": false
 }
+
+

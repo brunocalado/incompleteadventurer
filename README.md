@@ -3,6 +3,10 @@
   <img width="300" src="images/guide/usedw.png">
 </p>
 
+<p align="center">
+  <img width="300" src="images/guide/folders.png">
+</p>
+
 Incomplete Adventurer are Additional Playbooks for Dungeon World Designed by Trevor Murray & Ben Rosenbloom.
 
 The document has 18 playbooks and you can download the PDF at: https://benkrosenbloom.itch.io/incomplete-adventurer
@@ -35,11 +39,12 @@ https://raw.githubusercontent.com/brunocalado/incompleteadventurer/main/module.j
 
 # How to Use
 
-After an update you NEED to import again.
+- After an update you NEED to import again.
+- You need to activate the **Compendium Folder** module to use this one.
 
 ## Instructions
-1. Go to Compendium
-2. Choose the playbook you want.
+1. Go to Compendium **Incomplete Adventurer**
+2. Choose the playbook folder you want.
 3. Right click it and choose Import.
 4. The class will be available for the Character Builder now.
 
